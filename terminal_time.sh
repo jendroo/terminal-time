@@ -1,3 +1,3 @@
 echo `date`
-echo Welcome $(hostname)
+echo Welcome `whoami` to `hostname`
 
